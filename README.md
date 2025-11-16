@@ -1,80 +1,56 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F8B8DC&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+AI+Enthusiast;🤖+LLM+Developer;💜+Fullstack+Dev;🚀+Open+Source+Creator;✨+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F8B8DC&center=true&vCenter=true&width=435&lines=AI+Enthusiast;LLM+Developer;Fullstack+Dev;Python+Learner;Open+Source" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F8B8DC&text_color=EDEDED&icon_color=F8B8DC&border_color=30363D&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F8B8DC&text_color=EDEDED&border_color=30363D" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mail20060zma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F8B8DC&text_color=EDEDED&icon_color=F8B8DC&border_color=30363D&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mail20060zma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F8B8DC&text_color=EDEDED&border_color=30363D" alt="Top Languages" />
 </div>
 
 <br>
 
-## 🌟 **Привет! Меня зовут [Ваше Имя]**
+## Привет! Меня зовут Даниил
 
 ```mermaid
 graph TB
-    A([💜 Frontend<br/>React + Tailwind]) --> B([🤖 Backend<br/>FastAPI + LLMs])
-    C([⚙️ DevOps<br/>Docker + CI/CD]) --> D([🎨 UI/UX<br/>Figma + Motion])
-    E([🧠 AI/ML<br/>LangChain + Tools]) --> F([🚀 Open Source])
+    A[Frontend<br/>React + Tailwind] --> B[Fullstack<br/>AI Developer]
+    C[Backend<br/>FastAPI + Python] --> B
+    D[AI/ML<br/>LLM + Tools] --> B
+    E[DevOps<br/>Docker + Linux] --> B
     
-    A --> G[(💻 Fullstack<br/>AI Developer)]
-    B --> G
-    C --> G
-    D --> G
-    E --> G
-    F --> G
-    
-    style G fill:#F8B8DC,stroke:#C026D3,stroke-width:4px
+    style B fill:#F8B8DC,stroke:#C026D3,stroke-width:4px
 ```
 
 ---
 
-## 🛠️ **Технологии & Инструменты**
+## Технологии
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="12%">
-      <a href="https://developer.mozilla.org/ru/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-             width="50" height="50"/>
-      </a>
-      <br>HTML5
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+      <br>Python
     </td>
     <td align="center" width="12%">
-      <a href="https://developer.mozilla.org/ru/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-             width="50" height="50"/>
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="12%">
-      <a href="https://tailwindcss.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
-             width="50" height="50"/>
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="12%">
-      <a href="https://react.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-             width="50" height="50"/>
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="12%">
-      <a href="https://fastapi.tiangolo.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-             width="50" height="50"/>
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
       <br>FastAPI
     </td>
     <td align="center" width="12%">
-      <a href="https://nodejs.org/en/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-             width="50" height="50"/>
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+      <br>React
+    </td>
+    <td align="center" width="12%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
       <br>JavaScript
+    </td>
+    <td align="center" width="12%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+      <br>Docker
+    </td>
+    <td align="center" width="12%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+      <br>Git
     </td>
   </tr>
 </table>
@@ -82,68 +58,38 @@ graph TB
 
 ---
 
-## 🔥 **⭐ Мои проекты**
+## Мои проекты
 
-### 🤖 **[AI Chat Desktop](https://github.com/YOUR_USERNAME/ai-chat-desktop)** *[★ ★ ★]*
+### AI Chat Desktop
 ```
-🚀 Десктопный чат с ИИ с поддержкой инструментов (tools)
-✨ Плавные анимации, современный UI в фиолетово-розовых тонах
-⚡ Tool calling: погода, файлы, поиск, курсы валют
-💾 Локальное хранение чатов + перегенерация ответов
+Десктопный чат с ИИ и поддержкой инструментов
+Плавные анимации, современный UI
+Tool calling: файлы, погода, поиск, курсы валют
+Локальное хранение чатов + перегенерация
 ```
-[![AI Chat](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ai-chat-desktop&theme=radical&bg_color=0d1117&title_color=F8B8DC&text_color=EDEDED&icon_color=C026D3)](https://github.com/YOUR_USERNAME/ai-chat-desktop)
-
-### 🎯 **Другие проекты**
-| Название | Описание | ⭐ |
-|----------|----------|-----|
-| [LLM Tools](...) | Инструменты для локальных LLM | ★★★ |
-| [React UI Kit](...) | Компоненты в фиолетовых тонах | ★★ |
-| [FastAPI Auth](...) | JWT авторизация + Redis | ★★★ |
+[![AI Chat](https://github-readme-stats.vercel.app/api/pin/?username=Mail20060zma&repo=ai-chat-desktop&theme=radical&bg_color=0d1117&title_color=F8B8DC&text_color=EDEDED&icon_color=C026D3)](https://github.com/Mail20060zma/ai-chat-desktop)
 
 ---
 
-<div align="center">
-
-## 💜 **О себе**
+## О себе
 
 ```markdown
-🔭 Сейчас работаю над: Десктопными AI приложениями
-🌱 Изучаю: LangChain, LlamaIndex, RAG системы
-👨‍💻 Всё время в коде: Python, JS/TS, React
-💞 Люблю помогать: Open Source сообществу
-📫 Связаться: [email@example.com]
-⚡ Факт обо мне: Пишу код под synthwave плейлист
+🔭 Пока любитель, учусь на программиста в УрФУ
+🌱 Основной язык: Python
+💻 Изучаю: FastAPI, React, Docker, LLM
+📫 Почта: zma20060@gmail.com
 ```
 
-</div>
-
 ---
 
-## 📈 **GitHub Статистика**
+## Статистика
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&background=0d1117&border=30363D&stroke=F8B8DC&ring=C026D3&fire=C026D3&currStreakLabel=C026D3" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=F8B8DC&line=F8B8DC&point=C026D3&color=8B5CF6" alt="Activity Graph" />
-</div>
-
----
-
-## 🤝 **Поддержать проект ☕**
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.svg" alt="Buy Me A Coffee" width="200">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mail20060zma&theme=radical&background=0d1117&border=30363D&stroke=F8B8DC&ring=C026D3&fire=C026D3&currStreakLabel=C026D3" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mail20060zma&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=F8B8DC&line=F8B8DC&point=C026D3&color=8B5CF6" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=F8B8DC&border_color=C026D3&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Made%20with%20Python-F8B8DC?style=for-the-badge&logo=python&logoColor=white" alt="Made with Python">
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20%F0%9F%A7%A1-F8B8DC?style=for-the-badge&logo=github&logoColor=white" alt="Made with Love">
-</div>
-
-<script src="https://try.cfd.vercel.app/script.js" data-nofork="yes"></script>
+[/CODE 
