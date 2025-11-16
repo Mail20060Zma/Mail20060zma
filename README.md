@@ -18,7 +18,7 @@ graph TB
     D[Фантасия] --> B
     B[Удовольствие]
     
-    style B fill:#F8B8DC,stroke:#C026D3,stroke-width:4px
+
 ```
 
 ---
