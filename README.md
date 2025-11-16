@@ -13,10 +13,10 @@
 
 ```mermaid
 graph TB
-    A[хентай<br/>React + Tailwind] --> B[Fullstack<br/>AI Developer]
-    C[Backend<br/>FastAPI + Python] --> B
-    D[AI/ML<br/>LLM + Tools] --> B
-    E[DevOps<br/>Docker + Linux] --> B
+    A[хентай] --> B[Fullstack<br/>AI Developer]
+    C[Без цензурые LLM] --> B
+    D[Фантасия] --> B
+    B[Удовольствие]
     
     style B fill:#F8B8DC,stroke:#C026D3,stroke-width:4px
 ```
