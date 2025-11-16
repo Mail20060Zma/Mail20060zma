@@ -9,11 +9,10 @@
 
 <br>
 
-## Привет! Меня зовут Даниил
 
 ```mermaid
 graph TB
-    A[Frontend<br/>React + Tailwind] --> B[Fullstack<br/>AI Developer]
+    A[[хентайr/>React + Tailwind] --> B[Fullstack<br/>AI Developer]
     C[Backend<br/>FastAPI + Python] --> B
     D[AI/ML<br/>LLM + Tools] --> B
     E[DevOps<br/>Docker + Linux] --> B
@@ -23,38 +22,6 @@ graph TB
 
 ---
 
-## Технологии
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="12%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-      <br>Python
-    </td>
-    <td align="center" width="12%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
-      <br>FastAPI
-    </td>
-    <td align="center" width="12%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-      <br>React
-    </td>
-    <td align="center" width="12%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="12%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-      <br>Docker
-    </td>
-    <td align="center" width="12%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-      <br>Git
-    </td>
-  </tr>
-</table>
-</div>
 
 ---
 
